@@ -1,0 +1,2 @@
+The dataset can be generated using the code available in the [Roto-scale-translation-Equivariant-CNN repository](https://github.com/gaoliyao/Roto-scale-translation-Equivariant-CNN).
+Place the generated dataset here.

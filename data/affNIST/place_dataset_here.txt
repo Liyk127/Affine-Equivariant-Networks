@@ -1,0 +1,1 @@
+Download the dataset from https://www.cs.toronto.edu/~tijmen/affNIST/, and place the downloaded files (`training.mat` and `affNIST_test.mat`) here.
